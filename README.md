@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I'm Saad Ali</h1>
 <p align="center">
-  🚀 React Native Developer | 💡 Full Stack Learner | 🌍 Based in Pakistan
+  🚀 React Native Developer | 💡 Full Stack Learner | 🌍 Networker
 </p>
 
 ---
@@ -13,7 +13,7 @@ I'm a passionate **React Native developer** with strong experience building scal
 - 🧠 Exploring advanced **Hotspot + FreeRADIUS** authentication systems on Ubuntu
 - 💬 Ask me about **React Native**, **Node.js**, or **mobile app optimization**
 - 🌐 Portfolio: [iamsaad.netlify.app](https://iamsaad.netlify.app)
-- 📫 Email: `saad.ali@example.com` (replace with your real email)
+- 📫 Email: `saadrandhawa03@gmail.com`
 
 ---
 
@@ -54,4 +54,4 @@ I'm a passionate **React Native developer** with strong experience building scal
 ### ✨ Let's Connect
 
 - 🌐 [Portfolio Website](https://iamsaad.netlify.app)
-- 💼 [LinkedIn](https://linkedin.com/in/iamsaadrandhawa) *(Add your real link)*
+- 💼 [LinkedIn](https://linkedin.com/in/iamsaadrandhawa)
