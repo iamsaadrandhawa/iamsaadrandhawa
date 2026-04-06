@@ -1,58 +1,73 @@
-<h1 align="center">👋 Hi, I'm Saad</h1>
+<h1 align="center">🚀 Hi, I'm Saad</h1>
+
+<h3 align="center">Full Stack Developer | React Native Specialist | Networking Engineer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00FFBF&center=true&vCenter=true&width=480&lines=React+Native+Expert;Networker;Node.js;MERN+Stack+Developer;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FFBF&center=true&vCenter=true&width=650&lines=React+Native+Expert;MERN+Stack+Developer;Node.js+Backend+Engineer;Networking+%26+MikroTik+Specialist;API+Designer+%7C+System+Builder;IT+Infrastructure+Engineer" />
 </p>
 
 ---
 
-### 💼 About Me
+## 🧑‍💻 About Me
 
-I'm a passionate **React Native developer** with strong experience building scalable, real-world mobile applications. My goal is to deliver robust and user-friendly apps with high performance and intuitive UI.
+💡 I'm a **results-driven Full Stack Developer & Networking Engineer** with strong expertise in building scalable applications and managing IT infrastructure.
 
-- 🔭 Currently working on a **Dealer Management System** with MikroTik API integration  
-- 🧠 Exploring advanced **Hotspot + FreeRADIUS** authentication systems on Ubuntu  
-- 💬 Ask me about **React Native**, **Node.js**, or **mobile app optimization**  
-- 🌐 Portfolio: [iamsaad.netlify.app](https://iamsaad.netlify.app)  
-- 📫 Email: `saadrandhawa03@gmail.com`  
-
----
-
-### ⚙️ Tech Stack
-
-| Technology         | Description                              |
-|--------------------|------------------------------------------|
-| 📱 React Native     | Building high-performance mobile apps     |
-| 🌐 Node.js + Express| Backend APIs & logic                     |
-| 🗄️ SQL, Firebase    | Data storage & real-time databases        |
-| 🔌 REST APIs        | Integration & communication              |
-| 🛠️ Tools            | Git, VS Code, Postman, Netlify           |
+- 🔭 Working on **Dealer Management System (MikroTik API Integrated)**
+- 🧠 Exploring **Hotspot + FreeRADIUS Authentication Systems**
+- ⚡ Focused on **Performance, Scalability & Clean Architecture**
+- 🌍 Skilled in both **Software Development & Networking**
+- 💬 Ask me about **React Native, MERN, APIs, Networking**
 
 ---
 
-### 📌 Featured Projects
-
-- **Dealer Management System**  
-  A complete solution to manage dealers, bandwidth, and user control using MikroTik API.  
-  Stack: React Native, Node.js, SQL  
-  *(Private Repo or Available on request)*
-
-- **Hotspot + RADIUS Auth System**  
-  Custom authentication using MikroTik + FreeRADIUS + Ubuntu for secure login systems.
-
----
-
-### 📊 GitHub Stats
+## 🌐 Connect With Me
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iamsaadrandhawa&show_icons=true&theme=radical" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamsaadrandhawa&layout=compact&theme=radical" />
+  <a href="https://iamsaad.netlify.app">
+    <img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
+  </a>
+  <a href="mailto:saadrandhawa03@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/iamsaadrandhawa">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-### ✨ Let's Connect
+## ⚙️ Tech Stack & Tools
 
-- 🌐 [Portfolio Website](https://iamsaad.netlify.app)  
-- 💼 [LinkedIn](https://linkedin.com/in/iamsaadrandhawa)
+### 🚀 Development
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,reactnative,nodejs,express,mongodb,python,js,ts" />
+</p>
+
+### 🗄️ Databases
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,firebase,mongodb" />
+</p>
+
+### 🛠️ Tools & Platforms
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,netlify,linux" />
+</p>
+
+### 🌐 Networking & IT Infrastructure
+- MikroTik (RouterOS, API Integration)  
+- FreeRADIUS Authentication  
+- Hotspot Systems (Captive Portal)  
+- Remote Site Deployment & Management  
+- Network Monitoring & Troubleshooting  
+
+---
+
+## 🧠 Core Skills
+
+```bash
+Frontend:    React, React Native, UI/UX Optimization
+Backend:     Node.js, Express.js, REST APIs
+Database:    SQL, MongoDB, Firebase
+Languages:   JavaScript, Python
+Networking:  MikroTik, RADIUS, System Deployment
+DevOps:      Git, Netlify, Linux Servers
